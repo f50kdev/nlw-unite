@@ -5,7 +5,7 @@
 </haed>
 
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src="https://github.com/HenriquesGDG/nlw-unite-html-css-js/blob/main/.github/logo.png" width="200px" />
+  <img alt="Logo NLW Expert2024 - Rocketseat" src="https://github.com/HenriquesGDG/nlw-unite-html-css-js/blob/main/.github/logo.png" width="200px" />
 </p>
 
 <p align="center">
